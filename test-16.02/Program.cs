@@ -1,6 +1,6 @@
 ﻿int age = int.Parse(Console.ReadLine());
 
-if (age <21)
+if (age <24)
 {
     Console.WriteLine("Непълнолетен");
 }
